@@ -370,6 +370,7 @@ span {
 
 .projects-content .project-box {
     position: relative;
+    width:1rem
     border-radius: 2rem;
     overflow: hidden;
     box-shadow: 0 0 0.9rem rgba(0, 0, 0, 0.75);
