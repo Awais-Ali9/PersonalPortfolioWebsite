@@ -43,9 +43,9 @@ header{
     transition: .5s ease-in-out;
 }
 
-/* header.sticky{
+header.sticky{
     background: var(--bg-color);
-} */
+}
 
 
 header .logo-top{
