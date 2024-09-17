@@ -490,41 +490,6 @@ span {
     text-align: center;
 }
 
-form{
-    margin-top: 5rem;
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    gap: 20px;
-}
-
-form .input-feild{
-    width: 100%;
-    display: flex;
-    align-items: center;
-    gap: 15px;
-    position: relative;
-}
-
-form .input-feild input, textarea {
-    width: 100%;
-    padding: 10px 15px;
-    background: transparent;
-    border: 1px solid var(--main-color);
-    border-radius: 5px;
-    color: var(--text-color);
-    box-shadow: 0 0 0.9rem rgba(0, 0, 0, 0.75);
-}
-
-form .input-feild input::placeholder, textarea::placeholder{
-    color: var(--text-color);
-}
-form textarea{
-    height: 200px;
-}
-
 footer{
     padding: 1.6rem 5%;
     display: flex;
